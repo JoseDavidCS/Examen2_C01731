@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rebec\\Downloads\\examen2-main (1)\\examen2-main\\ExamTwo\\",
+  "WorkspaceRootPath": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|c:\\users\\rebec\\downloads\\examen2-main (1)\\examen2-main\\examtwo\\examtwo\\controllers\\coffeemachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|c:\\users\\c01731\\desktop\\examen2\\examen2_c01731\\examen2-2026-main\\examen2-2026-main\\examtwo\\examtwo\\controllers\\coffeemachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|solutionrelative:examtwo\\controllers\\coffeemachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F84B464-D2A2-BADB-55FE-4525AFA1BDD6}|TestProject1\\TestProject1.csproj|c:\\users\\c01731\\desktop\\examen2\\examen2_c01731\\examen2-2026-main\\examen2-2026-main\\examtwo\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F84B464-D2A2-BADB-55FE-4525AFA1BDD6}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|c:\\users\\c01731\\desktop\\examen2\\examen2_c01731\\examen2-2026-main\\examen2-2026-main\\examtwo\\examtwo\\models\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|solutionrelative:examtwo\\models\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|c:\\users\\c01731\\desktop\\examen2\\examen2_c01731\\examen2-2026-main\\examen2-2026-main\\examtwo\\examtwo\\models\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|solutionrelative:examtwo\\models\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|c:\\users\\c01731\\desktop\\examen2\\examen2_c01731\\examen2-2026-main\\examen2-2026-main\\examtwo\\examtwo\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|solutionrelative:examtwo\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeMachineController.cs",
+              "DocumentMoniker": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Controllers\\CoffeeMachineController.cs",
+              "RelativeDocumentMoniker": "ExamTwo\\Controllers\\CoffeeMachineController.cs",
+              "ToolTip": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Controllers\\CoffeeMachineController.cs",
+              "RelativeToolTip": "ExamTwo\\Controllers\\CoffeeMachineController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T00:29:11.038Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T02:06:00.456Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CoffeeMachineController.cs",
-              "DocumentMoniker": "C:\\Users\\rebec\\Downloads\\examen2-main (1)\\examen2-main\\ExamTwo\\ExamTwo\\Controllers\\CoffeeMachineController.cs",
-              "RelativeDocumentMoniker": "ExamTwo\\Controllers\\CoffeeMachineController.cs",
-              "ToolTip": "C:\\Users\\rebec\\Downloads\\examen2-main (1)\\examen2-main\\ExamTwo\\ExamTwo\\Controllers\\CoffeeMachineController.cs",
-              "RelativeToolTip": "ExamTwo\\Controllers\\CoffeeMachineController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "ExamTwo\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Models\\Payment.cs",
+              "RelativeToolTip": "ExamTwo\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T00:29:11.038Z",
+              "WhenOpened": "2026-07-07T01:16:06.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Models\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "ExamTwo\\Models\\OrderRequest.cs",
+              "ToolTip": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Models\\OrderRequest.cs",
+              "RelativeToolTip": "ExamTwo\\Models\\OrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T01:15:29.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Models\\Coffee.cs",
+              "RelativeDocumentMoniker": "ExamTwo\\Models\\Coffee.cs",
+              "ToolTip": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Models\\Coffee.cs",
+              "RelativeToolTip": "ExamTwo\\Models\\Coffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T01:14:45.039Z",
               "EditorCaption": ""
             }
           ]

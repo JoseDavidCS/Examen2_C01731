@@ -1,8 +1,12 @@
 using ExamTwo.Controllers;
+using ExamTwo.Repositories;
+using ExamTwo.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddScoped<ICoffeeRepository, CoffeeRepository>();
+builder.Services.AddScoped<ICoffeeMachineService, CoffeeMachineService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
