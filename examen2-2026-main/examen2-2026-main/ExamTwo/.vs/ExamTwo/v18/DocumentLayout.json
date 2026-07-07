@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|c:\\users\\c01731\\desktop\\examen2\\examen2_c01731\\examen2-2026-main\\examen2-2026-main\\examtwo\\examtwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|solutionrelative:examtwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|c:\\users\\c01731\\desktop\\examen2\\examen2_c01731\\examen2-2026-main\\examen2-2026-main\\examtwo\\examtwo\\services\\coffeemachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|solutionrelative:examtwo\\services\\coffeemachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|c:\\users\\c01731\\desktop\\examen2\\examen2_c01731\\examen2-2026-main\\examen2-2026-main\\examtwo\\examtwo\\controllers\\coffeemachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|solutionrelative:examtwo\\controllers\\coffeemachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F84B464-D2A2-BADB-55FE-4525AFA1BDD6}|TestProject1\\TestProject1.csproj|c:\\users\\c01731\\desktop\\examen2\\examen2_c01731\\examen2-2026-main\\examen2-2026-main\\examtwo\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F84B464-D2A2-BADB-55FE-4525AFA1BDD6}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F84B464-D2A2-BADB-55FE-4525AFA1BDD6}|TestProject1\\TestProject1.csproj|c:\\users\\c01731\\desktop\\examen2\\examen2_c01731\\examen2-2026-main\\examen2-2026-main\\examtwo\\testproject1\\coffeemachineservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F84B464-D2A2-BADB-55FE-4525AFA1BDD6}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\coffeemachineservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|c:\\users\\c01731\\desktop\\examen2\\examen2_c01731\\examen2-2026-main\\examen2-2026-main\\examtwo\\examtwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|solutionrelative:examtwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{070C073B-9B3E-4881-808C-5BB15C704575}|ExamTwo\\ExamTwo.csproj|c:\\users\\c01731\\desktop\\examen2\\examen2_c01731\\examen2-2026-main\\examen2-2026-main\\examtwo\\examtwo\\models\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -44,7 +48,7 @@
               "RelativeDocumentMoniker": "ExamTwo\\Controllers\\CoffeeMachineController.cs",
               "ToolTip": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Controllers\\CoffeeMachineController.cs",
               "RelativeToolTip": "ExamTwo\\Controllers\\CoffeeMachineController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-01T00:29:11.038Z",
               "IsPinned": true,
@@ -52,15 +56,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Program.cs",
-              "RelativeDocumentMoniker": "ExamTwo\\Program.cs",
-              "ToolTip": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Program.cs",
-              "RelativeToolTip": "ExamTwo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CoffeeMachineServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\TestProject1\\CoffeeMachineServiceTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\CoffeeMachineServiceTests.cs",
+              "ToolTip": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\TestProject1\\CoffeeMachineServiceTests.cs",
+              "RelativeToolTip": "TestProject1\\CoffeeMachineServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T02:08:48.705Z",
+              "WhenOpened": "2026-07-07T02:26:31.203Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeMachineService.cs",
+              "DocumentMoniker": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Services\\CoffeeMachineService.cs",
+              "RelativeDocumentMoniker": "ExamTwo\\Services\\CoffeeMachineService.cs",
+              "ToolTip": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Services\\CoffeeMachineService.cs",
+              "RelativeToolTip": "ExamTwo\\Services\\CoffeeMachineService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T02:57:21.275Z",
               "EditorCaption": ""
             },
             {
@@ -69,20 +87,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\TestProject1\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\TestProject1\\UnitTest1.cs",
-              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Program.cs",
+              "RelativeDocumentMoniker": "ExamTwo\\Program.cs",
+              "ToolTip": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Program.cs",
+              "RelativeToolTip": "ExamTwo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T02:06:00.456Z",
+              "WhenOpened": "2026-07-07T02:08:48.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "ExamTwo\\Models\\Payment.cs",
@@ -95,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "OrderRequest.cs",
               "DocumentMoniker": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Models\\OrderRequest.cs",
               "RelativeDocumentMoniker": "ExamTwo\\Models\\OrderRequest.cs",
@@ -108,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Coffee.cs",
               "DocumentMoniker": "C:\\Users\\c01731\\Desktop\\Examen2\\Examen2_C01731\\examen2-2026-main\\examen2-2026-main\\ExamTwo\\ExamTwo\\Models\\Coffee.cs",
               "RelativeDocumentMoniker": "ExamTwo\\Models\\Coffee.cs",
